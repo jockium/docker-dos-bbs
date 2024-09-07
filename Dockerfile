@@ -1,4 +1,4 @@
-FROM jgoerzen/dosemu
+FROM jockium/docker-dosemu
 
 MAINTAINER John Goerzen <jgoerzen@complete.org>
 
