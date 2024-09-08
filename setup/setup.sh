@@ -17,7 +17,7 @@ wget http://www.starbase21.net/tm421.zip
 wget https://archive.org/download/TelixCommunications_1020/telix351.zip
 wget https://www.hpcalc.org/hp48/pc/misc/pkz204g.exe
 wget http://cd.textfiles.com/pier/pier08/046/list91k.zip
-wget http://www.filegate.net/comm/dszexe.zip
+wget https://www.bbs.mythicalkingdom.com/sbbs/data/dirs/bbsproto/dszexe.zip
 
 sha256sum -c < sums
 
