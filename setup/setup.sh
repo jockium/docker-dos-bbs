@@ -24,9 +24,9 @@ sha256sum -c < sums
 mkdir doors
 cd doors
 #wget http://archives.scovetta.com/pub/fehq/BBSDoorGames/2002v309.zip
-wget https://www.slbbs.com/files/doorgame/2002v309.zip
-wget http://www.slbbs.com/files/doorgame/lord407.zip
-wget http://www.slbbs.com/files/doorgame/lord407-patch.zip
+wget https://web.archive.org/web/20160810040233/http://slbbs.com/files/doorgame/2002v309.zip
+wget https://web.archive.org/web/20160810040233/http://slbbs.com/files/doorgame/lord407.zip
+wget https://web.archive.org/web/20160810040233/http://slbbs.com/files/doorgame/lord407-patch.zip
 sha256sum -c < ../doorsums
 
 # Unpack PKZIP
