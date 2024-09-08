@@ -15,7 +15,7 @@ cd /tmp/setup
 wget https://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/msdos/fossil/adf_150.zip
 wget http://www.starbase21.net/tm421.zip
 wget https://archive.org/download/TelixCommunications_1020/telix351.zip
-wget http://ftp.stat.duke.edu/bats/pkz204g.exe
+wget https://www.hpcalc.org/hp48/pc/misc/pkz204g.exe
 wget http://cd.textfiles.com/pier/pier08/046/list91k.zip
 wget http://www.filegate.net/comm/dszexe.zip
 
