@@ -1,4 +1,4 @@
-FROM jockium/docker-dosemu
+FROM jockium/docker-dosemu2
 COPY setup/ /tmp/setup/
 COPY supervisor/ /etc/supervisor/conf.d/
 COPY scripts/ /usr/local/bin/

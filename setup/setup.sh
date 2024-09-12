@@ -8,6 +8,8 @@ echo 1 > /dos/startconsole
 
 echo '$_com1 = "virtual"' >> /etc/dosemu/dosemu.conf
 echo '$_timemode = "linux"' >> /etc/dosemu/dosemu.conf
+echo '$_external_char_set = "cp737"' >> /etc/dosemu/dosemu.conf
+echo '$_internal_char_set = "cp737"' >> /etc/dosemu/dosemu.conf
 mkdir /dos/drive_h/STARTUP
 
 ## Do the downloads
